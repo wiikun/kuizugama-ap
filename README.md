@@ -1,2 +1,2 @@
-# kuizugama-ap
+# kuizugame-api
 クイズ作るやつ
